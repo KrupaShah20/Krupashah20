@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krupa Shah</h1>
 <h3 align="center">Learning, building, and refining skills in software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krupashah20&label=Profile%20views&color=0e75b6&style=flat" alt="krupashah20" /> </p>
-
 - 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **krupashah175@gmail.com**
